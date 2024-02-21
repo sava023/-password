@@ -1,0 +1,109 @@
+
+body{ 
+   background-image: url(https://images.wallpaperscraft.ru/image/single/fon_oblaka_sinij_214824_300x188.jpg);
+    background-size: cover;
+}
+.logo{ 
+    color: f1f1f1 ;
+    width: 49px;
+    bottom: 0;
+    position: relative ;
+    top: auto;
+    left: 3%;
+}
+#menu a{
+    margin-left: 100px;
+    text-decoration: none;
+    left: 60px;
+    top: -60px;
+    position: relative;
+    font-size: 25px;
+    color: black;
+    transform:color 0.3s;
+    }
+    #menu a:hover{
+        color: #3816A6;
+        
+    }
+    #avto{
+        text-align: center;
+    font-size: 30px;
+    color: #323bb3;
+    }
+ main{ 
+    text-align: center;
+    position: relative;
+    left: 30px;
+    background-color: transparent;
+ }
+ #niz{
+    text-align: center;
+    position: relative;
+    top: 50px;
+ }
+ img{
+    position: relative;
+    right: 380px;
+    top: 10px;
+    width: 45px;
+ }
+ form input{ 
+    margin-bottom: 15px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: transparent;
+ }
+ ::placeholder{ 
+   color: black;
+   font-size: 15px;
+   position: relative;
+   top: -2px;
+   left: 10px;
+ }
+ div a {
+    font-size: 20px;
+    position: relative;
+    top: -5px;
+    left: -100px;
+    color: black;
+    text-decoration: none;
+    transform: color 0.3s;
+ }
+ div a:hover{ 
+   color:#3816A6 ;
+   
+ }
+  button{ 
+   background-color: transparent;
+   font-size: 16px;
+   border-radius: 10px;
+   position: relative;
+   left: 660px;
+   color: black;
+   transform: color 1s;
+ }
+ button:hover{ 
+   color: #323bb3;
+ }
+ footer a{ 
+   font-size: 20px;
+   position: relative;
+  left: 65px;
+ top: -84px;
+ text-decoration: none;
+ color: black;
+ transform: color 10s;
+}
+footer a:hover{ 
+   color: #3816A6;
+}
+footer p { 
+   font-size: 20px;
+   position: relative;
+   left: -60px;
+   top: -40px;
+}
+
+
+
+ 
